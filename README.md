@@ -8,7 +8,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=jayson-310801&&show_icons=trueicon_color=007fff&text_color=ffffff&bg_color=1B1E23" width="90%"/>
 
 -->
-Hi, I am Jay Sonawane.
+# I am Jay Sonawane.
 - 🔭 I’m currently working on my skills (•‿•)  
 - 🌱 I’m currently learning ..¯\_(ツ)_/¯    
 - 💬 Ask me about my projects   ᕙ(•‿•)ᕗ  
