@@ -15,3 +15,4 @@ Hi, I am Jay Sonawane.
 - 📫 How to reach me: mail me    (*❛‿❛)→ jay.sonawane.iitb@gmail.com    
 
 
+![Jay's Github Status](https://github-readme-stats.vercel.app/api?username=jayson-310801&show_icons=true&theme=radical)
